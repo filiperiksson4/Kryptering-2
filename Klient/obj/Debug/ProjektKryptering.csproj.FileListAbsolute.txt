@@ -1,0 +1,6 @@
+C:\Users\filip.eriksson4\source\repos\ProjektKryptering\obj\Debug\ProjektKryptering.csprojAssemblyReference.cache
+C:\Users\filip.eriksson4\source\repos\ProjektKryptering\bin\Debug\ProjektKryptering.exe.config
+C:\Users\filip.eriksson4\source\repos\ProjektKryptering\bin\Debug\ProjektKryptering.exe
+C:\Users\filip.eriksson4\source\repos\ProjektKryptering\bin\Debug\ProjektKryptering.pdb
+C:\Users\filip.eriksson4\source\repos\ProjektKryptering\obj\Debug\ProjektKryptering.exe
+C:\Users\filip.eriksson4\source\repos\ProjektKryptering\obj\Debug\ProjektKryptering.pdb
